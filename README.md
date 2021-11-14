@@ -1,7 +1,7 @@
 # Horiseon SEO Marketing
 
 ## Purpose
-A website that offers marketing services to businesses. The objective is to touch up an existing website. The hypothetical marketing agency CEO wantts a codebase that follows the company's accessibility standards. The website needs to be optimized for search engines to the approval of the company. The company requests the following: 
+A website that offers marketing services to businesses. The objective is to touch up an existing website. The hypothetical marketing agency comapny wants a codebase that follows said company's accessibility standards. The website needs to be optimized for search engines to the approval of the company. The company requests the following: 
 
 1) semantic HTML elements
 2) a logical structure to the elements that does not depend on styling or positioning
